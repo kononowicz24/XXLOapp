@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">xxloapp</string>
+    <string name="hello_world">Hello World!</string>
+	<string name="brak_zastepstw">Nie znaleziono zastepstw dla:</string>
+	<string name="sa_zastepstwa">Znaleziono zastepstwa dla:</string>
+	<string name="unavail2">Strona xxlo.pl/dokumenty nie odpowiedziała na żądanie</string>
+	<string name="unavail">Strona xxlo.pl nie odpowiedziała na żądanie</string>
+	<string name="io_error">Nie mozna wczytac strony</string>
+	<string name="on_page">na stronie:</string>
+</resources>
