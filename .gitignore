@@ -11,9 +11,12 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+gen/
 
 # IntelliJ IDEA
 .idea
+.idea_modules
+projectFilesBackup/
 
 # Android Scala Plugin
 proguard-sbt.txt
